@@ -103,8 +103,32 @@ h2 {
     margin: auto;
     border-radius: 20px;
 }
+.explore {
+    padding-top: 50px;
+}
 
+.explore li {
+    list-style: none;
+    text-align: left;
+    padding-right: 300px;
+}
+.explore img {
+    width: 1000px;
+    height: 500px;
+    display: block ;
+    margin-left: 50px ;
+    border-radius: 20px;
+    padding-bottom: 100px;
+}
 
+.poem {
+    display: flex;
+}
+.box {
+    width: 50%;
+    padding:10%;
+    border: black solid 1px;
+}
 
 .footer {
     background-color: #1f3a5f;
@@ -113,3 +137,4 @@ h2 {
     font-size: smaller;
     line-height: 1.2px;
 }
+
